@@ -6,4 +6,4 @@
 
 ## Coffe
 - [Gaggia Magenta Prestige](https://www.coffeefriend.nl/p/koffiemachine-gaggia-magenta-prestige)
-- [AeroPress](https://www.amazon.nl/-/en/dp/B07YVL8SF3/{
+- [AeroPress](https://www.amazon.nl/-/en/dp/B07YVL8SF3/)
