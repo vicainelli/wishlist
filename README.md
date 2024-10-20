@@ -1,4 +1,4 @@
-# Wish list
+# Wishlist
 
 ## Office
 
