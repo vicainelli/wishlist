@@ -1,5 +1,9 @@
 # Wishlist
 
+## General
+
+- [Deuter GIGA backpack](https://www.deuter.com/nl-nl/shop/rugzakken/p1679620-lifestyle-rugzak-giga)
+
 ## Music
 - ~https://www.getgooddrums.com/collections/software/products/p4~
 - https://www.getgooddrums.com/collections/all-products/products/one-kit-wonder-pop-punk
@@ -10,7 +14,7 @@
 
 ## Coffe
 - [Gaggia Magenta Prestige](https://www.coffeefriend.nl/p/koffiemachine-gaggia-magenta-prestige)
-- [AeroPress](https://www.amazon.nl/-/en/dp/B07YVL8SF3/)
+- [x] ~[AeroPress](https://www.amazon.nl/-/en/dp/B07YVL8SF3/)~
 - [DeLonghi KG 79 Professional Coffee Grinder](https://www.amazon.nl/-/en/DeLonghi-Professional-Grinder-Plastic-Housing/dp/B002OHDBQC)
 
 ## Gaming 
