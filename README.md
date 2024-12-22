@@ -18,5 +18,9 @@
 - [DeLonghi KG 79 Professional Coffee Grinder](https://www.amazon.nl/-/en/DeLonghi-Professional-Grinder-Plastic-Housing/dp/B002OHDBQC)
 - [JAFFEE J1 Pro - Manual Coffee Grinder](https://a.aliexpress.com/_EJtjZ9I)
 
+## Clothes
+
+- [100％ Merino Wool T-shirt](https://a.aliexpress.com/_EyFj6vE)
+
 ## Gaming 
 - [PS5 PULSE Elite™ Wireless Headset](https://www.amazon.nl/-/en/9572978/dp/B0CMJYZ76W)
