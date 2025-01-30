@@ -17,6 +17,7 @@
 - [Gaggia Magenta Prestige](https://www.coffeefriend.nl/p/koffiemachine-gaggia-magenta-prestige)
 - [x] ~[DeLonghi KG 79 Professional Coffee Grinder](https://www.amazon.nl/-/en/DeLonghi-Professional-Grinder-Plastic-Housing/dp/B002OHDBQC)~
 - [JAFFEE J1 Pro - Manual Coffee Grinder](https://a.aliexpress.com/_EJtjZ9I)
+- [MiiCoffee DF64](https://miicoffee.shop/products/mii-df64-single-dosing-coffee-grinder)
 
 ## Clothes
 
