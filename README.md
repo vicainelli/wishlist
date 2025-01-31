@@ -6,7 +6,7 @@
 
 ## Music
 - ~https://www.getgooddrums.com/collections/software/products/p4~
-- https://www.getgooddrums.com/collections/all-products/products/one-kit-wonder-pop-punk
+- ~https://www.getgooddrums.com/collections/all-products/products/one-kit-wonder-pop-punk~
 
 ## Office
 
