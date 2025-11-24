@@ -22,6 +22,7 @@
 ## Clothes
 
 - [100％ Merino Wool T-shirt](https://a.aliexpress.com/_EyFj6vE)
-- [FJÄLLRÄVEN - Skogsö Padded Jacket - Vrijetijdsjack](https://www.bergfreunde.nl/fjaellraeven-skogsoe-padded-jacket-vrijetijdsjack)
+- ~FJÄLLRÄVEN - Skogsö Padded Jacket - Vrijetijdsjack~
+
 ## Gaming 
 - [PS5 PULSE Elite™ Wireless Headset](https://www.amazon.nl/-/en/9572978/dp/B0CMJYZ76W)
