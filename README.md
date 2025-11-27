@@ -26,3 +26,8 @@
 
 ## Gaming 
 - [PS5 PULSE Elite™ Wireless Headset](https://www.amazon.nl/-/en/9572978/dp/B0CMJYZ76W)
+
+
+## Productivity
+
+- [Plaud Note](https://eu.plaud.ai/products/plaud-note-ai-voice-recorder)
