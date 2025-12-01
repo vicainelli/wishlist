@@ -21,7 +21,6 @@
 
 ## Clothes
 
-- [100％ Merino Wool T-shirt](https://a.aliexpress.com/_EyFj6vE)
 - ~FJÄLLRÄVEN - Skogsö Padded Jacket - Vrijetijdsjack~
 
 ## Gaming 
