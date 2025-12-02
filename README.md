@@ -3,6 +3,8 @@
 ## General
 
 - [Deuter GIGA backpack](https://www.deuter.com/nl-nl/shop/rugzakken/p1679620-lifestyle-rugzak-giga)
+- [Manta Sleep Mask](https://mantasleep.com/products/manta-sleep-mask?variant=44473174425753)
+- [PGYTECH Pouch Tech Travel](https://amzn.eu/d/g3o5Edl)
 
 ## Music
 - ~https://www.getgooddrums.com/collections/software/products/p4~
@@ -30,3 +32,7 @@
 ## Productivity
 
 - [Plaud Note](https://eu.plaud.ai/products/plaud-note-ai-voice-recorder)
+
+## Cooking / Kitchen
+
+- [Sous vite stick](https://anovaculinary.com/en-nl/products/anova-precision-cooker-3)
